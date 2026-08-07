@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# TODO: update this URL once the site is live (GitHub Pages URL or custom domain)
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/top10-parks-toowoomba/sitemap.xml
